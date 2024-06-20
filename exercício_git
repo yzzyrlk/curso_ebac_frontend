@@ -1,0 +1,16 @@
+mkdir = para criar a pasta
+
+git init = para iniciar um novo repositório
+
+echo "Rodrigo Moraes de Lirio" > nome.txt = para criar o arquivo com o conteúdo
+
+git add nome.txt = para adicionar o arquivo para versionamento
+
+git commit -m "primeiro commit" = para realizar o commit
+
+git branch -M exercício_git = para renomear a branch para "exercício_git"
+
+git remote add origin <endereço> = para adicionar o repositório remoto
+
+git push -u origin exercício_git = para realizar o push da branch
+
